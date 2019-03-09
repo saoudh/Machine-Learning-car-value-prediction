@@ -1,5 +1,4 @@
-# Machine-Learning-car-value-prediction
-Prediction of car value  
+# Prediction of used cars on ebay
 
 ### 1 Introduction 
 
