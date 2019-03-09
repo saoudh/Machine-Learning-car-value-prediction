@@ -23,4 +23,4 @@ The following plot shows the positive/negative correlation between some attribut
 The following curve shows average price of the cars each years. Consider the higher value of oldtimer. The reason why the curve falls at year 2019 has to do with sparse data in recent time. There is only one car in the data set from 2019.
 
 
-![price-per-year-curve](https://github.com/saoudh/Reinforcement-Learning/blob/master/Machine-Learning-car-value-prediction/prices_per_year.png)
+![price-per-year-curve](https://github.com/saoudh/Machine-Learning-car-value-prediction/blob/master/prices_per_year.png)
